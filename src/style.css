@@ -1,0 +1,19 @@
+.breed-select {
+  width: 200px;
+}
+
+.error {
+  display: none;
+}
+
+.loader {
+  display: none;
+}
+
+.cat-image {
+  width: 600px;
+}
+
+.breed-select {
+  margin-bottom: 20px;
+}
